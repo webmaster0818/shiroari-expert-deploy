@@ -245,4 +245,4 @@
 :HL["/_next/static/media/fda1100c0b727f76-s.p.0ah69yg1452-d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/fe7ea5c2ea4f4ea2-s.p.0x1p92tqy3635.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/fec14f572d7cedfc-s.p.09a-mby-2pdl..woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"shiroari-hojo-kin-zenkoku","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"oL2Si2rKPWOBL5F81ETXi"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"shiroari-hojo-kin-zenkoku","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"oKn_H2C2666yTGlmE58GA"}
